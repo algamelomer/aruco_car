@@ -1,4 +1,4 @@
-from test_2 import *
+from aruco_detector import *
 import requests
 import time
 import numpy as np
